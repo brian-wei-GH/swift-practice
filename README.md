@@ -49,4 +49,21 @@ initial view: IntroView --> OnBoardingView or ProfileView
 
   5. log out
 
+## 🔆 ToDo List 
+A beautifully minimal and functional ToDo List app built using **SwiftUI** and the **MVVM architecture**. It allows users to add, delete, reorder, and mark tasks as complete — with persistent local storage using `UserDefaults`.
 
+- ✅ Add new tasks
+- 🗑️ Delete tasks with swipe
+- ☑️ Mark tasks as complete/incomplete
+- 📥 Persist data with `UserDefaults`
+- 🔀 Reorder tasks with drag-and-drop
+- 🧼 Clean and modern UI using SwiftUI
+- 💡 Light/Dark Mode support
+
+### Tech Stack
+1. SwiftUI
+2. MVVM architecture
+3. Xcode 15+, IOS 17+
+
+
+  
